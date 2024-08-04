@@ -11,6 +11,9 @@
 ## Process
 
 PhysioNET Repository로부터 수집된 환자 별 심장 ECG 신호 데이터를 사용하여, 노이즈 처리, 클래스 불균형, 구간 결측치 데이터에 대한 다중 분류 모델링을 5일간 진행하였습니다. 진행 방식은 Kaggle에 Competition을 활용하여 Cost Function이 가장 낮은 모델을 찾아내는 방식입니다. 총 3팀으로 구성되었으며, 18명의 33기 학회원들이 참여하였습니다. 불균형 클래스, 파생변수 생성, 다양한 변수들에 대한 EDA 및 하이퍼파라미터 튜닝, 과적합 방지 등 다양한 분석 과제에 대해 다뤄보았습니다. 분석한 내용을 PPT로 제작하여 오프라인 세미나 때 학회원들에게 발표하는 시간을 가졌습니다.
+### Data(Train only)
+*test와 sample_submission은 레포 내에 있으며, train은 용량 제한 상 dropbox 링크로 대체합니다.
+*https://www.dropbox.com/scl/fi/qa9eguv6gunm10gwskq33/train.csv?rlkey=thacwxs9pn9lsifn69j0gqfad&st=gbuh3wc8&dl=0
 ## 팀구성
 
 * 1팀 : 김태현 박상훈 곽동길 권능주 박윤아 이경미
