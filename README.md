@@ -20,3 +20,5 @@ PhysioNET Repository로부터 수집된 환자 별 심장 ECG 신호 데이터�
 
 * P-SAT 33기 여름방학 Kaggle Competition :
 https://www.kaggle.com/competitions/p-sat-33th-summer-vacation-seminar
+## 참고문헌
+*Eleyan, A.; Alboghbaish, E. Electrocardiogram Signals Classification Using Deep-Learning-Based Incorporated Convolutional Neural Network and Long Short-Term Memory Framework. Computers 2024, 13, 55. https://doi.org/10.3390/computers13020055
